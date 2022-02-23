@@ -1,3 +1,8 @@
+// https://www.acmicpc.net/problem/24039
+// 이름 : 2021은 무엇이 특별할까?
+// 레벨 : S5
+// 분류 : 수학, 정수론, 소수 판정
+
 package BAEKJOON;
 
 import java.io.BufferedReader;

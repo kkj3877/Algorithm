@@ -1,3 +1,8 @@
+// https://www.acmicpc.net/problem/2447
+// 이름 : 별 찍기 - 10
+// 레벨 : S1
+// 분류 : 분할 정복, 재귀
+
 package BAEKJOON;
 
 import java.io.BufferedReader;
