@@ -1,3 +1,8 @@
+// https://www.acmicpc.net/problem/10994
+// 이름 : 별 찍기 - 19
+// 레벨 : S4
+// 분류 : 구현, 재귀
+
 package BAEKJOON;
 
 import java.io.BufferedReader;
