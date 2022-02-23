@@ -5,7 +5,7 @@ import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class BJ2447 {
+public class BJ_2447 {
 	
 	// 맵의 포인터와 크기, 시작좌표를 입력받아 재귀적으로 패턴 생성
 	static void makePattern(boolean[][] map, int N, int r, int c) {
