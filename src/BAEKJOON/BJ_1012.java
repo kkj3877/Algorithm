@@ -53,6 +53,7 @@ public class BJ_1012 {
 						map[i][j] = 0;
 						List<Pair> stack = new ArrayList<Pair>();
 						stack.add(new Pair(i, j));
+						
 						while (!stack.isEmpty()) {
 							Pair now = stack.remove(stack.size() - 1);
 							int nowR = now.r;
